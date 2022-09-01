@@ -1,0 +1,9 @@
+.forecast--daily {
+  border: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  padding: 10px 20px;
+}

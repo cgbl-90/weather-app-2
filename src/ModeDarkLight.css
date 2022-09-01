@@ -1,0 +1,8 @@
+.btn--mode {
+  width: 45px;
+  height: 45px;
+  display: block;
+  margin: 50px 10px 10px;
+  background-color: black;
+  border-radius: 45px;
+}
